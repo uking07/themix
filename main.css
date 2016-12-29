@@ -1,0 +1,13 @@
+header {
+  background-color: blue;
+  text-shadow: black;
+  text-align: left;
+}
+
+header h1 {
+  background-color: white;
+}
+
+darkBG {
+  background-color: grey;
+}
